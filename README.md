@@ -22,7 +22,7 @@
 
 |C#|MSSQL|HTML|CSS|PHP|Javascript
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://i.stack.imgur.com/u6BUv.png">|<img style="width: 100px" src="https://w1.pngwing.com/pngs/819/663/png-transparent-sql-logo-blue-text-line-area-rectangle-sign-signage.png">|<img style="width: 100px" src="https://miro.medium.com/max/1200/1*Dn1K1VzcPbUnr2w9cvQa0A.png">|<img style="width: 100px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">|<img style="width: 100px" src="https://e7.pngegg.com/pngimages/251/608/png-clipart-php-php.png">|<img style="width: 100px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/JS-caglarbostanci-com-tr.png">|
+|<img style="width: 100px" src="https://i.stack.imgur.com/u6BUv.png">|<img style="width: 100px" src="https://mpng.subpng.com/20180526/cli/kisspng-microsoft-azure-sql-database-microsoft-sql-server-5b0a1461c19491.6934786415273872337929.jpg">|<img style="width: 100px" src="https://miro.medium.com/max/1200/1*Dn1K1VzcPbUnr2w9cvQa0A.png">|<img style="width: 100px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">|<img style="width: 100px" src="https://e7.pngegg.com/pngimages/251/608/png-clipart-php-php.png">|<img style="width: 100px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/JS-caglarbostanci-com-tr.png">|
 
 |Android Studio|React|Flutter|VS|VS Code|Git
 |:-:|:-:|:-:|:-:|:-:|:-:|
