@@ -22,7 +22,7 @@
 
 |C#|MSSQL|HTML|CSS|PHP|Javascript
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://i.stack.imgur.com/u6BUv.png">|<img style="width: 100px" src="https://camo.githubusercontent.com/2bb9da8a4f2efdc95ecfb9f7f9c94ad7d28aa57097b8518c93a7a029057b50e9/68747470733a2f2f65372e706e676567672e636f6d2f706e67696d616765732f3137302f3932342f706e672d636c69706172742d6d6963726f736f66742d73716c2d7365727665722d6d6963726f736f66742d617a7572652d73716c2d64617461626173652d6d6963726f736f66742d746578742d6c6f676f2e706e67">|<img style="width: 100px" src="https://miro.medium.com/max/1200/1*Dn1K1VzcPbUnr2w9cvQa0A.png">|<img style="width: 100px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">|<img style="width: 100px" src="https://e7.pngegg.com/pngimages/251/608/png-clipart-php-php.png">|<img style="width: 100px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/JS-caglarbostanci-com-tr.png">|
+|<img style="width: 100px" src="https://i.stack.imgur.com/u6BUv.png">|<img style="width: 100px" src="https://mpng.subpng.com/20180403/lhe/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5ac3dfa11c1874.3743286715227862091151.jpg">|<img style="width: 100px" src="https://miro.medium.com/max/1200/1*Dn1K1VzcPbUnr2w9cvQa0A.png">|<img style="width: 100px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">|<img style="width: 100px" src="https://e7.pngegg.com/pngimages/251/608/png-clipart-php-php.png">|<img style="width: 100px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/JS-caglarbostanci-com-tr.png">|
 
 |Android Studio|React|Flutter|VS|VS Code|Git
 |:-:|:-:|:-:|:-:|:-:|:-:|
