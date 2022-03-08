@@ -22,7 +22,7 @@
 
 |C#|MSSQL|HTML|CSS|PHP|Javascript
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://i.stack.imgur.com/u6BUv.png">|<img style="width: 100px" src="https://www.teknoloskop.net/wp-content/uploads/2019/01/sql.png">|<img style="width: 100px" src="https://miro.medium.com/max/1200/1*Dn1K1VzcPbUnr2w9cvQa0A.png">|<img style="width: 100px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">|<img style="width: 100px" src="https://e7.pngegg.com/pngimages/251/608/png-clipart-php-php.png">|<img style="width: 100px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/JS-caglarbostanci-com-tr.png">|
+|<img style="width: 100px" src="https://i.stack.imgur.com/u6BUv.png">|<img style="width: 100px" src="https://www.teknoloskop.net/wp-content/uploads/2019/01/sql.png">|<img style="width: 100px" src="https://miro.medium.com/max/1200/1*Dn1K1VzcPbUnr2w9cvQa0A.png">|<img style="width: 100px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">|<img style="width: 100px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/JS-caglarbostanci-com-tr.png">|
 
 |Android Studio|React|Flutter|VS|VS Code|Git
 |:-:|:-:|:-:|:-:|:-:|:-:|
