@@ -17,9 +17,9 @@
 |:-:|:-:|:-:|:-:|:-:|
 |<img style="width: 250px" src="https://media-exp1.licdn.com/dms/image/C4E22AQH5GL3PSpbk2w/feedshare-shrink_2048_1536/0/1608839033620?e=1648080000&v=beta&t=rJqN-2XdzFh9uhq4oQM0rg1wcFWC87HrKh-bIsSAWTY">|<img style="width: 250px" src="https://c.tenor.com/wJbcatwT09EAAAAC/coloring-draw.gif">|  <img style="width: 250px" src="https://data.whicdn.com/images/306387121/original.gif">|<img style="width: 200px" src="https://data.whicdn.com/images/64626199/original.gif">|<img style="width: 200px" src="https://i.pinimg.com/originals/91/c6/6e/91c66e567ee249c72ee74bc7cac2fca6.gif">|
 </br>
-
+ 
 ## ⚙️ Languages & Tools 
-<div align="center">
+
 |C#|MSSQL|HTML|CSS|PHP|Javascript
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |<img style="width: 100px" src="https://i.stack.imgur.com/u6BUv.png">|<img style="width: 100px" src="https://www.teknoloskop.net/wp-content/uploads/2019/01/sql.png">|<img style="width: 100px" src="https://miro.medium.com/max/1200/1*Dn1K1VzcPbUnr2w9cvQa0A.png">|<img style="width: 100px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">|<img style="width: 100px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/JS-caglarbostanci-com-tr.png">|
@@ -32,7 +32,7 @@
 </br>
 
 
-</div>
+
 ## ✔️GitHub Analytics
 
 <p align="left" >
