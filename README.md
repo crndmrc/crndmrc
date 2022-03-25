@@ -17,7 +17,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |<img style="width: 250px" src="https://media-exp1.licdn.com/dms/image/C4E22AQH5GL3PSpbk2w/feedshare-shrink_2048_1536/0/1608839033620?e=1648080000&v=beta&t=rJqN-2XdzFh9uhq4oQM0rg1wcFWC87HrKh-bIsSAWTY">|<img style="width: 250px" src="https://c.tenor.com/wJbcatwT09EAAAAC/coloring-draw.gif">|  <img style="width: 250px" src="https://data.whicdn.com/images/306387121/original.gif">|<img style="width: 200px" src="https://data.whicdn.com/images/64626199/original.gif">|<img style="width: 200px" src="https://i.pinimg.com/originals/91/c6/6e/91c66e567ee249c72ee74bc7cac2fca6.gif">|
 </br>
-
+<div align="center">
 ## ⚙️ Languages & Tools 
 
 |C#|MSSQL|HTML|CSS|PHP|Javascript
@@ -32,7 +32,7 @@
 </br>
 
 
-
+</div>
 ## ✔️GitHub Analytics
 
 <p align="left" >
