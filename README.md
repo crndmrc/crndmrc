@@ -45,6 +45,5 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crndmrc&label=Profile%20views&color=0e75b6&style=flat" alt="cerendemirci" /></p>
-<p align="center"> <a href="(https://www.buymeacoffee.com/cerendemirci)"><img height="150em" align:"center" src="![image](https://user-images.githubusercontent.com/56431511/212614901-c0bf3fd1-9343-4ea0-96be-74973c4daed7.png)
-"/> </p
+<p align="center"> <a href="https://www.buymeacoffee.com/cerendemirci"><img height="150em" align:"center" src="https://azureblogpl.blob.core.windows.net/blog/2021/09/skiptheflip_buymeacoffee3_creativeworkdonations.png"/> </p
 </div>
