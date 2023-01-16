@@ -15,7 +15,7 @@
 
 |Coding|Drawing|Traveling|Anime|Manga|
 |:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 250px" src="https://media-exp1.licdn.com/dms/image/C4E22AQH5GL3PSpbk2w/feedshare-shrink_2048_1536/0/1608839033620?e=1648080000&v=beta&t=rJqN-2XdzFh9uhq4oQM0rg1wcFWC87HrKh-bIsSAWTY">|<img style="width: 250px" src="https://c.tenor.com/wJbcatwT09EAAAAC/coloring-draw.gif">|  <img style="width: 250px" src="https://data.whicdn.com/images/306387121/original.gif">|<img style="width: 200px" src="https://data.whicdn.com/images/64626199/original.gif">|<img style="width: 200px" src="https://i.pinimg.com/originals/91/c6/6e/91c66e567ee249c72ee74bc7cac2fca6.gif">|
+|<img style="width: 250px" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">|<img style="width: 250px" src="https://c.tenor.com/wJbcatwT09EAAAAC/coloring-draw.gif">|  <img style="width: 250px" src="https://data.whicdn.com/images/306387121/original.gif">|<img style="width: 200px" src="https://data.whicdn.com/images/64626199/original.gif">|<img style="width: 200px" src="https://i.pinimg.com/originals/91/c6/6e/91c66e567ee249c72ee74bc7cac2fca6.gif">|
 </br>
  
  <div align="center">
@@ -45,5 +45,7 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crndmrc&label=Profile%20views&color=0e75b6&style=flat" alt="cerendemirci" /></p>
-<p align="center"> <a href="https://www.buymeacoffee.com/cerendemirci"><img height="150em" align:"center" src="https://azureblogpl.blob.core.windows.net/blog/2021/09/skiptheflip_buymeacoffee3_creativeworkdonations.png"/> </p
+<p align="center"> <a href="https://www.buymeacoffee.com/cerendemirci"><img height="150em" align:"center" src="https://azureblogpl.blob.core.windows.net/blog/2021/09/skiptheflip_buymeacoffee3_creativeworkdonations.png"/> </p>
+<p align="center"> <a href="https://www.youtube.com/channel/UCDRRKIAfbmqYN7LLW5zd71Q"><img height="150em" align:"center" src="https://i.pinimg.com/originals/49/48/3a/49483a0b5f70c54aee8be7bf7f607a80.png"/> </p>
+
 </div>
